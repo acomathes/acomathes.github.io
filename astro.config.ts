@@ -4,15 +4,14 @@ import react from "@astrojs/react";
 import remarkToc from "remark-toc";
 import remarkCollapse from "remark-collapse";
 import sitemap from "@astrojs/sitemap";
+import { SITE } from "./src/config";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://acomathes.github.io/",
+  site: SITE.website,
   integrations: [
     tailwind({
-      config: {
-        applyBaseStyles: false,
-      },
+      applyBaseStyles: false,
     }),
     react(),
     sitemap(),
@@ -28,14 +27,18 @@ export default defineConfig({
       ],
     ],
     shikiConfig: {
-      theme: "one-dark-pro",
+      // For more themes, visit https://shiki.style/themes
+      themes: { light: "min-light", dark: "night-owl" },
       wrap: true,
     },
-    extendDefaultPlugins: true,
   },
   vite: {
     optimizeDeps: {
       exclude: ["@resvg/resvg-js"],
     },
+  },
+  scopedStyleStrategy: "where",
+  experimental: {
+    contentLayer: true,
   },
 });
