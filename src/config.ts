@@ -1,10 +1,10 @@
 import type { SocialObjects } from "./types";
 
 export const SITE = {
-  website: "https://apolat2000.github.io/",
+  website: "https://acomathes.github.io/",
   author: "Ahmet Polat",
-  desc: "Personal blog for apolat2000's excitement about tech, art and philosophy topics.",
-  title: "apolat2000 Blog",
+  desc: "Personal blog for acomathes' excitement about tech, art and philosophy topics.",
+  title: "acomathes Blog",
   ogImage: "og.png",
   lightAndDarkMode: true,
   postPerPage: 3,
@@ -20,7 +20,7 @@ export const LOGO_IMAGE = {
 export const SOCIALS: SocialObjects = [
   {
     name: "Github",
-    href: "https://github.com/apolat2000",
+    href: "https://github.com/acomathes",
     linkTitle: ` ${SITE.title} on Github`,
     active: true,
   },

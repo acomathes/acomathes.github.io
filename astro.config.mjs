@@ -7,7 +7,7 @@ import sitemap from "@astrojs/sitemap";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://apolat2000.github.io/",
+  site: "https://acomathes.github.io/",
   integrations: [
     tailwind({
       config: {
