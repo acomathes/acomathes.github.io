@@ -5,12 +5,8 @@ title: "I Deleted My Users Table, Part I: Why and How"
 postSlug: i-deleted-my-users-table-part-1
 featured: true
 draft: false
-tags:
-  - NestJS
-  - microservices
-  - clerkjs
-  - psql
-  - users
+categories:
+  - technical
 ogImage: ""
 description: Be inspired by my reflection on whether I should manage the users of my application myself or use a third-party service.
 ---

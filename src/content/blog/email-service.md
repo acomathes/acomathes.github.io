@@ -5,11 +5,8 @@ title: "Write an Email Microservice: Localized, Automated, Scalable & Testable"
 postSlug: write-an-email-microservice
 featured: true
 draft: false
-tags:
-  - NestJS
-  - microservices
-  - localization
-  - Handlebars
+categories:
+  - technical
 ogImage: ""
 description:
   Learn the general requirements for an email microservice and modularly ship it

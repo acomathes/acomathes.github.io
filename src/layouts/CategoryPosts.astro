@@ -11,21 +11,21 @@ import type { CollectionEntry } from "astro:content";
 
 export interface Props {
   page: Page<CollectionEntry<"blog">>;
-  tag: string;
+  category: string;
   tagName: string;
 }
 
-const { page, tag, tagName } = Astro.props;
+const { page, category, tagName } = Astro.props;
 ---
 
-<Layout title={`Tag: ${tagName} | ${SITE.title}`}>
-  <Header activeNav="tags" />
+<Layout title={`${tagName} | ${SITE.title}`}>
+  <Header activeNav={tagName} />
   <Main
-    pageTitle={[`Tag:`, `${tagName}`]}
-    titleTransition={tag}
-    pageDesc={`All the articles with the tag "${tagName}".`}
+    pageTitle={[`Category:`, `${tagName}`]}
+    titleTransition={category}
+    pageDesc={`All the articles with the category "${tagName}".`}
   >
-    <h1 slot="title" transition:name={tag}>{`Tag:${tag}`}</h1>
+    <h1 slot="title" transition:name={category}>{`Category:${category}`}</h1>
     <ul>
       {
         page.data.map(({ data, slug }) => (

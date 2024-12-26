@@ -5,12 +5,8 @@ title: "I Deleted My Users Table, Part II: The Caching Strategy"
 postSlug: i-deleted-my-users-table-part-2
 featured: true
 draft: false
-tags:
-  - NestJS
-  - microservices
-  - clerkjs
-  - psql
-  - users
+categories:
+  - technical
 ogImage: ""
 description: Learn how to efficiently cache users kept in a third-party authentication provider's database to stay resilient to network failures.
 ---
