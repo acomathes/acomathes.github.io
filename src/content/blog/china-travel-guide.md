@@ -13,7 +13,7 @@ description: A guide relevant for everyone who wants to travel in China. It is a
 
 **Authors:** Ahmet Polat, Arian Kasmaee Mirmiran, Zhi Jiang Wong, Wassim Jaoui, Nicolás Bruna Felsch, Dauren Sakenov
 
-![The authors](https://res.cloudinary.com/dgbreyevx/image/upload/v1782576619/New_Project_8_1_pa8zih.png)
+![The authors](https://res.cloudinary.com/dgbreyevx/image/upload/v1782576963/authors_ctxpct.png)
 
 This guide is relevant for all of you who want to travel in China. I am assuming that you live in the “west block” reading this blog post in English, that is, you will want to use WhatsApp to tell your mom that you are doing okay, and Instagram to post the delicious noodles that you are eating. So let’s begin.
 
