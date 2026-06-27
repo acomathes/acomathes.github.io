@@ -1,5 +1,5 @@
 ---
-author: Ahmet Polat, Arian Kasmaee Mirmiran, Zhi Jiang Wong, Wassim Jaoui, Nicolás Bruna Felsch
+author: Ahmet Polat
 pubDatetime: 2026-06-27T17:50:52.737Z
 title: "China Travel Guide"
 postSlug: china-travel-guide
