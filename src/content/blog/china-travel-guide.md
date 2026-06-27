@@ -8,8 +8,7 @@ draft: false
 categories:
   - personal
 ogImage: ""
-description:
-  A guide relevant for everyone who wants to travel in China. It is about what to do before arriving and how to go about doing touristic stuff during the visit in China.
+description: A guide relevant for everyone who wants to travel in China. It is about what to do before arriving and how to go about doing touristic stuff during the visit in China.
 ---
 
 This guide is relevant for all of you who want to travel in China. I am assuming that you live in the “west block” reading this blog post in English, that is, you will want to use WhatsApp to tell your mom that you are doing okay, and Instagram to post the delicious noodles that you are eating. So let’s begin.
