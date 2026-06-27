@@ -8,7 +8,7 @@ draft: false
 categories:
   - personal
 ogImage: ""
-description: A guide relevant for everyone who wants to travel in China. It is about what to do before arriving and how to go about doing touristic stuff during the visit in China.
+description: A guide relevant for anyone who wants to travel in China.
 ---
 
 **Authors:** Ahmet Polat, Arian Kasmaee Mirmiran, Zhi Jiang Wong, Wassim Jaoui, Nicolás Bruna Felsch, Dauren Sakenov
