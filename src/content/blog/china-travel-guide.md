@@ -15,18 +15,18 @@ description: A guide relevant for anyone who wants to travel in China.
 
 ![The authors](https://res.cloudinary.com/dgbreyevx/image/upload/v1782576963/authors_ctxpct.png)
 
-This guide is relevant for all of you who want to travel in China. I am assuming that you live in the “west block” reading this blog post in English, that is, you will want to use WhatsApp to tell your mom that you are doing okay, and Instagram to post the delicious noodles that you are eating. So let’s begin.
+This guide is relevant for all of you who want to travel in China. I am assuming that you live in the “west block” reading this blog post in English, that is, you will want to use WhatsApp to tell your mom that you are doing okay, and Instagram to post the delicious noodles that you are eating. So the language is adapted to that perspective of the world. So let’s begin.
 
 ## Table of contents
 
 ## The MUSTS before you arrive in China
 
 There are things that you will either regret very badly not having done back in your homeland, or that you cannot possibly do in China, meaning it’s too late.
-China is a country where so many crucial and day-to-day things are done online, and more importantly, within the Chinese intranet. This means that the most of the Chinese people are completely oblivious to so many apps and systems that you know in your hometown like Facebook, WhatsApp, Google, Google Maps, Pinterest, Booking.com, or even TikTok. They have their own national apps for everything. And without them, you can’t really survive in China. So the network blockage on western apps when you are in China is the reason why you will need a VPN to use them there.
+China is a country where so many crucial and day-to-day things are done online, and more importantly, within the Chinese intranet. This means that most of the Chinese people are completely oblivious to so many apps and systems that you know in your hometown like Facebook, WhatsApp, Google, Google Maps, Pinterest, Booking.com, or even TikTok. They have their own national apps for everything. And without them, you can’t really survive in China. So the network blockage on western apps when you are in China is the reason why you will need a VPN to use them there.
 
 ### eSIM
 
-Some eSIM providers will have VPN built in, for example Yesim or Holafly, which we used during our trip. Through the eSIM you will have access to your usual day to day. Sending and receiving media did not work though (with Yesim), so for that purpose, I had to turn on the actual VPN.
+You need an eSIM for internet. Some eSIM providers will have VPN built in, for example Yesim or Holafly, which we used during our trip. Sending and receiving media on WhatsApp did not work though (with Yesim), so for that purpose, I had to turn on the actual VPN.
 
 ### VPN
 
@@ -34,11 +34,11 @@ You can do your own research on what VPN app is the best or fastest in China. I 
 
 ### WeChat
 
-You will need WeChat for exchanging contacts with the locals you meet. Install the WeChat app on your mobile phone and create your account. It will require an SMS verification, and this does not work inside China, which is the reason why you must do it before arriving in China. I did not do this before my arrival in China, so unfortunately I could not set it up. WeChat has a lot of functionalities, but I was fine without it, although some shops and restaurants only accept WeChat and no AliPay, so it is definitely a very important nice to have.
+You will need WeChat for exchanging contacts with the locals you meet. Install the WeChat app on your mobile phone and create your account. It will require an SMS verification, and this does not work inside China, which is the reason why you must do it before arriving in China. I did not do this before my arrival in China, so unfortunately I could not set it up. WeChat has a lot of other functionalities than just texting, but I was fine without it, although some shops and restaurants only accept WeChat and no AliPay, so it is definitely a very important nice to have.
 
 ### AliPay
 
-Install the AliPay app on your mobile phone, create your account and connect your homeland bank account in the app. AliPay is very crucial because otherwise you will not be able to pay for almost anything.
+AliPay is very crucial because otherwise you will not be able to pay for almost anything. Install the AliPay app on your mobile phone, create your account and connect your homeland bank account in the app.
 
 ### AMaps
 
@@ -66,7 +66,7 @@ You might want to leave yours at home and buy one from China. See ["(Domestic) F
 
 The following information will come very surprising: if you have been to Türkiye, or are “ethnically Turkish”, they will explicitly interrogate you during passport control. In my case, I handed (only) my German passport to the passport control officer, and the first question I received was: “What is your ethnicity?”. I answered: “Turkish”. Which led to me being taken to a separate room with two other Chinese officers who interrogated me for around 1,5 hours. They asked me absurd questions, translated the book that I was reading on my Kindle, checked my WhatsApp messages, YouTube history, browser history and all my photos. The same thing happened to my friend who has a German passport and his birthplace in Iran. Also, as I was standing in the line, I witnessed three different Kazakh-Russian families being ruthlessly questioned regarding their Antalya stamps.
 
-🚩
+➡️🚩
 Before passport control, I recommend deleting all apps that you don’t want some Chinese officials to look at, e.g. Instagram and X. Also log out from as many apps as possible, such as YouTube.
 
 ## In China
