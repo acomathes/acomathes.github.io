@@ -62,7 +62,7 @@ You might want to leave yours at home and buy one from China. See ["(Domestic) F
 
 ## Arriving in China
 
-> SKIP TO [🚩](https://acomathes.github.io/posts/china-travel-guide/#:~:text=%F0%9F%9A%A9,-Before) IF YOU HAVE NOT BEEN TO TURKEY WITH YOUR CURRENT PASSPORT OR ARE NOT “ETHNICALLY TURKISH”
+> SKIP TO [🚩](https://acomathes.github.io/posts/china-travel-guide/#:~:text=%E2%9E%A1%EF%B8%8F%F0%9F%9A%A9) IF YOU HAVE NOT BEEN TO TURKEY WITH YOUR CURRENT PASSPORT OR ARE NOT “ETHNICALLY TURKISH”
 
 The following information will come very surprising: if you have been to Türkiye, or are “ethnically Turkish”, they will explicitly interrogate you during passport control. In my case, I handed (only) my German passport to the passport control officer, and the first question I received was: “What is your ethnicity?”. I answered: “Turkish”. Which led to me being taken to a separate room with two other Chinese officers who interrogated me for around 1,5 hours. They asked me absurd questions, translated the book that I was reading on my Kindle, checked my WhatsApp messages, YouTube history, browser history and all my photos. The same thing happened to my friend who has a German passport and his birthplace in Iran. Also, as I was standing in the line, I witnessed three different Kazakh-Russian families being ruthlessly questioned regarding their Antalya stamps.
 
